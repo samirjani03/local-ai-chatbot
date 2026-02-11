@@ -1,19 +1,5 @@
-Good. This is how you turn a project into something real.
-
-Below is your **complete professional `README.md`**.
-Copy everything into a file named:
 
 ```
-README.md
-```
-
-in your project root.
-
----
-
-# 📄 README.md
-
-```markdown
 # 🧠 Local Llama 3.1 ChatGPT Clone (React + FastAPI + Ollama)
 
 A full-stack AI chatbot built using:
