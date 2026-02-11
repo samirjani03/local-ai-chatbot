@@ -42,24 +42,6 @@ This project replicates a ChatGPT-style interface running entirely on your local
 
 ---
 
-# 🏗 Project Architecture
-
-```
-
-ai-chatbot/
-│
-├── backend/        → FastAPI server
-│   └── main.py
-│
-├── frontend/       → React UI (Vite)
-│   └── src/
-│
-└── README.md
-
-````
-
----
-
 # ⚙️ Requirements
 
 Before starting, make sure you have:
