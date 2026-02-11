@@ -1,5 +1,5 @@
 
-```
+
 # 🧠 Local Llama 3.1 ChatGPT Clone (React + FastAPI + Ollama)
 
 A full-stack AI chatbot built using:
